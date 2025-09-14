@@ -43,7 +43,3 @@ Automated tests made with Playwright.
 2. Setup `.env.local` values based on `.env.example`.
 3. `npm run test-env`
 4. `npm run test-ui`
-
-## Live deployment
-
-You can checkout the app at https://studytutor.vercel.app/ :)
