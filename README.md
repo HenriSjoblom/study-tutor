@@ -2,7 +2,7 @@
 
 _This repository is a duplicate of [Study Tutor](https://github.com/kristianka/studytutor). For the complete history including action runs, refer to the original repository._
 
-Study tutor is a software for students and everyone who wants to learn new skills and keep track of the progress! Live at https://studytutor.vercel.app/. Made by [@HenriSjoblom](https://github.com/HenriSjoblom), [@kristianka](https://github.com/kristianka) and [@Zennrr](https://github.com/Zennrr)!
+Study tutor is a software for students and everyone who wants to learn new skills and keep track of the progress! Made by [@HenriSjoblom](https://github.com/HenriSjoblom), [@kristianka](https://github.com/kristianka) and [@Zennrr](https://github.com/Zennrr)!
 
 For through documentation, please visit the [Wiki](https://github.com/HenriSjoblom/study-tutor/wiki).
 
